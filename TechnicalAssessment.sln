@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalAssessment", "TechnicalAssessment\TechnicalAssessment.csproj", "{D9E6938C-DBDF-41CB-87A2-335B04E66979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalAssessment.Tests", "TechnicalAssessment.Tests\TechnicalAssessment.Tests.csproj", "{F37E7B97-260A-47EC-B79E-40D20A494C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E6938C-DBDF-41CB-87A2-335B04E66979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E6938C-DBDF-41CB-87A2-335B04E66979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E6938C-DBDF-41CB-87A2-335B04E66979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E6938C-DBDF-41CB-87A2-335B04E66979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37E7B97-260A-47EC-B79E-40D20A494C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37E7B97-260A-47EC-B79E-40D20A494C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37E7B97-260A-47EC-B79E-40D20A494C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37E7B97-260A-47EC-B79E-40D20A494C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
